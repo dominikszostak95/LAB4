@@ -15,7 +15,6 @@ import { BlogItemDetailComponent } from './components/blog-item-detail/blog-item
 import { SummaryPipe } from './summary.pipe';
 import { FilterPipe } from './filter.pipe';
 import { HttpClientModule } from '@angular/common/http';
-import { DataServiceService } from './services/data-service.service';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { SearchBarComponent } from './components/search-bar/search-bar.component';
 import { BlogHomeComponent } from './components/blog-home/blog-home.component';
